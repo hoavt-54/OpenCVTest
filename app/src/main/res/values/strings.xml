@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenCVTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="readstorage_permission_explanation">To capture image, the app need permission to read storage</string>
+</resources>
